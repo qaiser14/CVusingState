@@ -1,0 +1,379 @@
+.borderLine{
+
+    height: 200vh;
+    width: 70vw;
+    border: 1px solid grey;
+    margin-left: 15vw;
+    margin-top: 1vh;
+    position: relative;
+}
+
+.profilePic{
+
+    height: 30vh;
+    width: 15vw;
+    border-radius: 10px;
+    margin: 3% 3%;
+    display: inline-block;
+}
+
+.profileDesc{
+
+    height: 30vh;
+    width: 50vw;
+    /* border: 2px solid black; */
+    display: inline-block;
+    position: absolute;
+    top: 2%;
+    left: 27%;
+    background: #CD6161;
+    color: #fff;   
+}
+
+.name1{
+
+    font-weight: 400;
+    margin-top: 1%;
+    margin-left: 2%;
+
+}
+
+.name2{
+
+    font-weight: 400;
+    font-size: 1em;
+    margin-top: 1%;
+    margin-left: 2%;
+}
+
+.description1{
+
+    font-size: 0.7em;
+    text-align: left;
+    margin-left: 2%;
+}
+
+.contactDetail{
+
+    height: 46vh;
+    width: 15vw;
+    /* border: 1px solid black; */
+    margin: 0% 3%;
+    
+}
+
+#mailIcon1{
+
+    color: #CD6161; 
+     
+}
+
+#mailIcon2{
+
+    color: #CD6161; 
+    
+}
+
+.email1{
+
+    font-size: 0.8em;
+    color: #606060;
+    margin-top: -4%;
+    
+}
+
+.mobile1{
+
+    font-size: 0.8em;
+    color: #606060;
+    margin-top: -3%;
+    
+}
+
+.technicalSkills{
+
+    height: 74vh;
+    width: 15vw;
+    /* border: 1px solid black; */
+    margin: 2% 3%;
+    
+}
+
+.hdgSkill1{
+
+    color: #CD6161; 
+    border-bottom: 2px solid #CD6161;
+}
+
+.techSkill1{
+
+    color: #606060;
+    font-size: 0.8em;
+
+}
+
+.techBar1{
+
+    height: 1vh;
+    width: 13vw; 
+    /* border: 1px solid #CD6161; */
+    /* background: #CD6161; */
+    margin-top: -3%;
+}
+
+.techBar1A{
+
+    height: 1vh;
+    width: 13vw; 
+    background: #CD6161;
+    
+}
+
+.techBar1Acss3{
+
+    height: 1vh;
+    width: 13vw; 
+    background: #CD6161;
+    margin-top: 0.1%;
+    
+}
+
+.techBar1ASQL{
+
+    height: 1vh;
+    width: 13vw; 
+    background: #CD6161;
+    margin-top: -0.1%;
+    
+}
+
+.Interests{
+
+    height: 32vh;
+    width: 15vw;
+    /* border: 1px solid black; */
+    margin: 2% 3%;
+    
+}
+
+.Interests100{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+        
+}
+
+.chess1{
+
+    font-size: 0.8em;
+    color: #606060;
+    margin-top: 0%;
+    margin-left: 4%;
+    
+}
+
+.workExperiance{
+
+    position: absolute;
+    top: 19.9%;
+    left: 27%;
+    height: 104vh;
+    width: 50.3vw;
+    /* border: 1px solid black; */
+    
+}
+
+.hdgWork1{
+
+    position: relative;
+    top: -2%;
+    color: #CD6161; 
+    border-bottom: 2px solid #CD6161;
+}
+
+.workEx1{
+
+    position: absolute;
+    top: 6%;
+    left: 2%;
+    height: 48vh;
+    width: 48vw;
+    /* border: 1px solid black; */
+
+}
+
+.workBox1{
+
+    position: relative;
+    height: 12vh;
+    width: 47vw;
+    /* border: 1px solid blueviolet; */
+}
+
+.hdgWork2{
+
+    position: absolute;
+    top: -15%;
+    font-size: 0.8em;
+    font-weight: 500;
+    color: #CD6161; 
+}
+
+.hdgWork3{
+
+    position: absolute;
+    top: 0%;
+    font-size: 1em;
+    font-weight: 500;
+    color: #000; 
+}
+
+.hdgWork4{
+
+    position: absolute;
+    top: 55%;
+    font-size: 0.6em;
+    font-weight: 500;
+    color: #CD6161;; 
+    /* border: 1px solid black; */
+    height: 4vh;
+    width: 10vw;
+    font-style: italic;
+}
+
+.hdgWork5{
+
+    position: absolute;
+    top: 55%;
+    left: 78%;
+    font-size: 0.6em;
+    font-weight: 500;
+    color: #CD6161;; 
+    /* border: 1px solid black; */
+    height: 4vh;
+    width: 10vw;
+    font-style: italic;
+    text-align: right;
+}
+
+.workDetail1{
+
+    position: relative;
+    top: 0%;
+    left: 1%;  
+    /* border: 1px solid black; */
+    height: 6vh;
+    width: 98%;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+
+}
+
+#mailIcon2{
+
+    color: #CD6161; 
+    font-size: 0.5em;
+    margin-top: 0.5%;
+}
+
+.workFont1{
+
+    font-size: 0.6em;
+    margin-left: 1%;
+    margin-top: 0%;
+}
+
+.workEx2{
+
+    position: absolute;
+    top: 54%;
+    left: 2%;
+    height: 46vh;
+    width: 48vw;
+    /* border: 1px solid black; */
+
+}
+
+.courseTrain{
+
+    position: absolute;
+    top: 71%;
+    left: 27%;
+    height: 35vh;
+    width: 50.3vw;
+    /* border: 1px solid black; */
+}
+
+.course1{
+
+    position: relative;
+    top: -6%;
+    height: 6vh;
+    width: 48vw;
+    /* border: 1px solid red; */
+}
+
+.courseName1{
+
+    position: relative;
+    top: -35%;
+    font-size: 0.8em;
+    font-weight: 600;
+    /* font-weight: bold; */
+    color: rgb(63, 61, 61);
+
+}
+
+.courseInst1{
+
+    position: relative;
+    top: -70%;
+    font-size: 0.6em;
+    font-weight: 400;
+    color: rgb(107, 105, 105);
+}
+
+.educationInst{
+
+    position: absolute;
+    top: 91%;
+    left: 27%;
+    height: 17vh;
+    width: 50.3vw;
+    /* border: 1px solid black; */
+}
+
+.hdgEducation1{
+
+    position: relative;
+    top: -20%;
+    color: #CD6161; 
+    border-bottom: 2px solid #CD6161;
+}
+
+.eduDegree1{
+
+    position: absolute;
+    top: 14%;
+    font-size: 0.8em;
+    font-weight: 500;
+    color: #CD6161;
+
+}
+
+.eduInst1{
+
+    position: absolute;
+    top: 30%;
+    font-size: 0.8em;
+    font-weight: 500;
+    color: #000;
+
+}
+
+
+
+
+
